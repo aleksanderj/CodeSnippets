@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-clipboard": "^1.5.0",
+    "highlightjs": "^9.8.0",
+    "angular-highlightjs": "^0.6.2"
+  }
+}
